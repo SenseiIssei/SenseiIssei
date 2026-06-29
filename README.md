@@ -1,10 +1,10 @@
 # Hi, I'm Jakob
 
-Somewhere between a fever dream and a clean git history, I build software that mostly does what it's told.
+Somewhere between caffeine and positivity, I build software that mostly does what it's told.
 
 I've been writing code since I was 16. Started because turning nothing into something that actually runs felt like the closest thing to magic I could get my hands on, and that feeling never really wore off.
 
-By day I work in automation at VisiCon. The rest of the time I build the tools I wish already existed: usually open source, usually privacy-first, always because I got curious about something and couldn't let it go.
+By day I work in Software Development for Automation and Camera Algorithms. The rest of the time I build the tools I wish already existed: usually open source, usually privacy-first, always because I got curious about something and couldn't let it go.
 
 ## What I'm building
 
@@ -16,7 +16,7 @@ There's usually a couple more experiments quietly running in the background.
 
 ## Languages & tools
 
-Mostly Rust and Python these days, with C++, C# and Java never far away. For the desktop side I reach for Tauri and React, and everything runs on Linux.
+Mostly c++, Rust, Python and React these days, with C# and Java never far away. For the desktop side I reach for Tauri and React, and everything runs on Linux.
 
 ## Reach me
 
