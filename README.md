@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jakob
 
-<!--
-**SenseiIssei/SenseiIssei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somewhere between a fever dream and a clean git history, I build software that mostly does what it's told.
 
-Here are some ideas to get you started:
+I've been writing code since I was 16. Started because turning nothing into something that actually runs felt like the closest thing to magic I could get my hands on, and that feeling never really wore off.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By day I work in automation at VisiCon. The rest of the time I build the tools I wish already existed: usually open source, usually privacy-first, always because I got curious about something and couldn't let it go.
+
+## What I'm building
+
+**[Sensei](https://github.com/SenseiIssei/Sensei)** is a self-hosted AI workspace with token compression, running on GLM-5.2. Free, open source, and built so your data never has to leave your machine.
+
+**[Mercy-SF](https://github.com/SenseiIssei/Mercy-SF)** is a cross-platform desktop app that automates Shakes & Fidget. Written in Rust with Tauri 2 and React 19.
+
+There's usually a couple more experiments quietly running in the background.
+
+## Languages & tools
+
+Mostly Rust and Python these days, with C++, C# and Java never far away. For the desktop side I reach for Tauri and React, and everything runs on Linux.
+
+## Reach me
+
+- LinkedIn: [jakob-hollwedel](https://www.linkedin.com/in/jakob-hollwedel-a9b5b731b/)
+- Website: [senseiissei.dev](https://senseiissei.dev)
+- Ko-fi: [ko-fi.com/senseiissei](https://ko-fi.com/senseiissei)
+
+If you're working on something interesting, or just want to talk shop, hmu.
