@@ -10,7 +10,7 @@ By day I work in Software Development for Automation and Camera Algorithms. The 
 
 **[Sensei](https://github.com/SenseiIssei/Sensei)** is a self-hosted AI workspace with token compression, running on GLM-5.2. Free, open source, and built so your data never has to leave your machine.
 
-**[Mercy-SF](https://github.com/SenseiIssei/Mercy-SF)** is a cross-platform desktop app that automates Shakes & Fidget. Written in Rust with Tauri 2 and React 19.
+**[Mercy-SF](https://mercysf.app)** is a cross-platform desktop app that automates Shakes & Fidget. Written in Rust with Tauri 2 and React 19.
 
 There's usually a couple more experiments quietly running in the background.
 
