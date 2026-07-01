@@ -21,7 +21,6 @@ Mostly c++, Rust, Python and React these days, with C# and Java never far away. 
 ## Reach me
 
 - LinkedIn: [jakob-hollwedel](https://www.linkedin.com/in/jakob-hollwedel-a9b5b731b/)
-- Website: [senseiissei.dev](https://senseiissei.dev)
 - Ko-fi: [ko-fi.com/senseiissei](https://ko-fi.com/senseiissei)
 
 If you're working on something interesting, or just want to talk shop, hmu.
