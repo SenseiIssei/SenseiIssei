@@ -24,9 +24,6 @@ There are usually a couple more experiments quietly running in the background.
 
 Mostly Rust, Python and TypeScript/React these days, with C++, C# and Java never far away. For the desktop side I lean on Tauri, and everything runs on Linux.
 
-## Say hi
-
-- LinkedIn — [jakob-hollwedel](https://www.linkedin.com/in/jakob-hollwedel-a9b5b731b/)
 - Ko-fi — [ko-fi.com/senseiissei](https://ko-fi.com/senseiissei)
 
 If you're working on something interesting, or just want to talk shop, hmu.
