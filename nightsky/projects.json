@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pythia",
+    "name": "Pythia",
+    "repo": "SenseiIssei/Pythia",
+    "kanji": "神託",
+    "desc": "Paper-first trading cockpit with a research lab that counts every try.",
+    "stack": [
+      "Rust",
+      "Python",
+      "Tauri"
+    ]
+  },
+  {
+    "id": "sensei",
+    "name": "Sensei",
+    "repo": "SenseiIssei/Sensei",
+    "kanji": "先生",
+    "desc": "Self-hosted AI workspace that compresses prompts before they leave your machine.",
+    "stack": [
+      "Python",
+      "MCP"
+    ]
+  },
+  {
+    "id": "odysync",
+    "name": "Odysync",
+    "repo": "SenseiIssei/Odysync",
+    "kanji": "航海",
+    "desc": "Safe software and driver updates for Windows, macOS and Linux, without winget.",
+    "stack": [
+      "Rust",
+      "Tauri",
+      "React"
+    ]
+  },
+  {
+    "id": "caruspex",
+    "name": "Caruspex",
+    "repo": "SenseiIssei/Caruspex",
+    "kanji": "診断",
+    "desc": "Vehicle diagnostics: OBD-II via ELM327, VW/Audi K-Line, live data and trouble codes.",
+    "stack": [
+      "C++20",
+      "Qt 6"
+    ]
+  },
+  {
+    "id": "hyakki",
+    "name": "HYAKKI",
+    "repo": "SenseiIssei/HYAKKI",
+    "kanji": "百鬼",
+    "desc": "Idle auto-battler through Japanese folklore. Every sprite is a pixel grid, every sound synthesized.",
+    "stack": [
+      "TypeScript",
+      "Tauri"
+    ]
+  },
+  {
+    "id": "mercysf",
+    "name": "Mercy SF",
+    "repo": "SenseiIssei/MercySF",
+    "url": "https://mercysf.app",
+    "kanji": "慈悲",
+    "desc": "Desktop app that automates Shakes & Fidget: quests, arena, dungeons, fortress, the lot.",
+    "stack": [
+      "Rust",
+      "Tauri",
+      "React"
+    ]
+  },
+  {
+    "id": "codeforge",
+    "name": "CodeForge",
+    "repo": "SenseiIssei/CodeForge",
+    "kanji": "鍛錬",
+    "desc": "Learn to code and prep for interviews in one desktop app. Seven languages, English and German.",
+    "stack": [
+      "Python"
+    ]
+  },
+  {
+    "id": "ma",
+    "name": "ma",
+    "repo": "SenseiIssei/ma",
+    "kanji": "間",
+    "desc": "App blocker for iPhone: breathe, answer a question, then decide.",
+    "stack": [
+      "Swift"
+    ]
+  }
+]
