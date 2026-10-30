@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,60:302b63,100:e94560&height=120&section=header&text=Jakob&fontSize=48&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="./banner.svg" width="100%" alt="Jakob" />
 
 Somewhere between too much coffee and stubborn optimism, I build software that mostly does what it's told.
 
