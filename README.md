@@ -15,10 +15,8 @@ By day I write C++ machine vision software for automotive production: cameras, a
   <a href="https://github.com/SenseiIssei/Sensei"><img src="assets/cards/sensei.svg" width="49%" alt="Sensei" /></a>
   <a href="https://github.com/SenseiIssei/Odysync"><img src="assets/cards/odysync.svg" width="49%" alt="Odysync" /></a>
   <a href="https://github.com/SenseiIssei/Caruspex"><img src="assets/cards/caruspex.svg" width="49%" alt="Caruspex" /></a>
-  <a href="https://github.com/SenseiIssei/HYAKKI"><img src="assets/cards/hyakki.svg" width="49%" alt="HYAKKI" /></a>
   <a href="https://mercysf.app"><img src="assets/cards/mercysf.svg" width="49%" alt="Mercy SF" /></a>
   <a href="https://github.com/SenseiIssei/CodeForge"><img src="assets/cards/codeforge.svg" width="49%" alt="CodeForge" /></a>
-  <a href="https://github.com/SenseiIssei/ma"><img src="assets/cards/ma.svg" width="49%" alt="ma" /></a>
 </p>
 
 <p align="center"><sub>There are usually a couple more experiments quietly running in the background.</sub></p>
