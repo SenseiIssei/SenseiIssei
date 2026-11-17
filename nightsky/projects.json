@@ -39,21 +39,10 @@
     "name": "Caruspex",
     "repo": "SenseiIssei/Caruspex",
     "kanji": "診断",
-    "desc": "Vehicle diagnostics: OBD-II via ELM327, VW/Audi K-Line, live data and trouble codes.",
+    "desc": "Diagnostics for every car brand: UDS, BMW ENET, DoIP, Tesla over CAN, EV battery health. 18 languages.",
     "stack": [
-      "C++20",
-      "Qt 6"
-    ]
-  },
-  {
-    "id": "hyakki",
-    "name": "HYAKKI",
-    "repo": "SenseiIssei/HYAKKI",
-    "kanji": "百鬼",
-    "desc": "Idle auto-battler through Japanese folklore. Every sprite is a pixel grid, every sound synthesized.",
-    "stack": [
-      "TypeScript",
-      "Tauri"
+      "Rust",
+      "Tauri 2"
     ]
   },
   {
@@ -77,16 +66,6 @@
     "desc": "Learn to code and prep for interviews in one desktop app. Seven languages, English and German.",
     "stack": [
       "Python"
-    ]
-  },
-  {
-    "id": "ma",
-    "name": "ma",
-    "repo": "SenseiIssei/ma",
-    "kanji": "間",
-    "desc": "App blocker for iPhone: breathe, answer a question, then decide.",
-    "stack": [
-      "Swift"
     ]
   }
 ]
